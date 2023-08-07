@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Bootstrap 5 From Scratch\nBuild 5 Modern Websites",
+    "level": "BEGINNER",
+    "img": "https://res.cloudinary.com/traversy-media/image/upload/v1687355057/bootstraplogo_fvv9lu.png",
+    "link": "https://traversymedia.com/bootstrap-from-scratch"
+  },
+  {
+    "title": "MERN From Scratch\nBuild an eCommerce Platform",
+    "level": "INTERMEDIATE",
+    "img": "https://res.cloudinary.com/traversy-media/image/upload/v1682799720/kajabi-website/mern_xnfncj.png",
+    "link": "https://www.traversymedia.com/mern-stack-from-scratch"
+  },
+  {
+    "title": "Modern JavaScript From The Beginning 2.0",
+    "level": "ALL LEVELS",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/themes/2152537062/settings_images/3e073-4fe-315-d6bf-b660bfd35038_js_small_main.png",
+    "link": "https://traversymedia.com/modern-javascript-2-0"
+  },
+  {
+    "title": "React Front To Back",
+    "level": "BEGINNER - INTERMEDIATE",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/themes/2152537062/settings_images/C5TfDxu9Qy6wYZ9HtP1S_react_front_to_back_small.png",
+    "link": "https://traversymedia.com/Modern-React-Front-To-Back-Course"
+  },
+  {
+    "title": "50 Projects in 50 Days - HTML, CSS & JavaScript",
+    "level": "ALL LEVELS",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/themes/2152537062/settings_images/5d0R4AgbR0KEBShyUwVG_50projects_small.png",
+    "link": "https://traversymedia.com/50-Projects-In-50-Days"
+  },
+  {
+    "title": "Modern HTML & CSS From The Beginning",
+    "level": "BEGINNER",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/themes/2152537062/settings_images/8efVSKZSf6CkvnyI2nJh_html_small.png",
+    "link": "https://traversymedia.com/modern-html-css-course"
+  },
+  {
+    "title": "Node.js API Masterclass",
+    "level": "INTERMEDIATE",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/themes/2152537062/settings_images/obc3aXcTWOGWln4iEM7o_node_small.png",
+    "link": "https://traversymedia.com/node-js-api-masterclass"
+  },
+  {
+    "title": "Next.js Dev To Deployment",
+    "level": "INTERMEDIATE",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/themes/2152537062/settings_images/ulllK9SRru8AoKpMQz8Q_next_small.png",
+    "link": "https://traversymedia.com/next-js-dev-to-deployment"
+  },
+  {
+    "title": "Python Django Dev To Deployment",
+    "level": "INTERMEDIATE",
+    "img": "https://s3.amazonaws.com/kajabi-storefronts-production/themes/2152537062/settings_images/mtMo6nGkRhB4YyIcN1OI_django_small.png",
+    "link": "https://traversymedia.com/Python-Django-Dev-To-Deployment"
+  }
+]
